@@ -31,6 +31,8 @@ version = "0.${config.build_number}"
 group= 'com.github.lunatrius'
 archivesBaseName = 'LunaTest'
 
+compileJava.options.encoding = 'UTF-8'
+
 minecraft {
     version = '1.7.10-10.13.0.1188'
     assetDir = 'eclipse/assets'
