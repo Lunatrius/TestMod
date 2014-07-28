@@ -1,0 +1,16 @@
+[
+{
+  "modid": "LunaTest",
+  "name": "LunaTest",
+  "description": "Debugging mod. Does nothing useful.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lunatrius"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
